@@ -53,7 +53,7 @@ exports.getAllTours = async (req, res) => {
     }
     
 
-    // 3) Limiting  
+    // 3) Limiting
     if(req.query.fields){
       const fields = req.query.fields.split(',').join(' ');
       query = query.select(fields);
