@@ -61,7 +61,7 @@ exports.getAllTours = async (req, res) => {
       query = query.select('-__v');
     }
 
-    // 4) Pagination 1-10 page1 , 11-20 page2
+    // 4) Pagination 1-10 page1, 11-20 page2
     const page = req.query.page * 1 || 1;
     const limit = req.query.limit * 1 || 100;
     const skip = ( page - 1 ) * limit;
