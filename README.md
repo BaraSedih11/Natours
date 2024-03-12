@@ -1,4 +1,17 @@
-# Natours
+<div align=center>
+  <img src="https://github.com/BaraSedih11/Natours/assets/98843912/6131c911-3b0d-4183-aebf-2d23954df30a" width=500px/>
+
+  <br />
+  <br />
+  
+   ![GitHub repo size](https://img.shields.io/github/repo-size/BaraSedih11/Natours) 
+   ![GitHub repo file count (file type)](https://img.shields.io/github/directory-file-count/BaraSedih11/Natours) 
+   ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/BaraSedih11/Natours/main)
+   [![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/BaraSedih/Natours/releases/tag/v1.0.0)
+   [![Contributors](https://img.shields.io/github/contributors/BaraSedih11/Natours)](https://github.com/BaraSedih11/Natours/graphs/contributors)
+   ![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/BaraSedih11/Natours)
+
+</div>
 
 Welcome to Natours! This is a sample repository showcasing a fictional tour booking website.
 
