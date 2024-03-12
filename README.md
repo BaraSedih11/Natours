@@ -13,8 +13,6 @@
 
 </div>
 
-Welcome to Natours! This is a sample repository showcasing a fictional tour booking website.
-
 ## Description
 
 Natours is a modern and elegant tour booking website designed to provide users with a seamless booking experience for various tours and activities around the world. This repository contains the source code for the Natours website.
